@@ -1,0 +1,5 @@
+1. install 'brew install cassandra'
+2. location in /usr/local/Celler/Cassandra
+3. bring the server up by bin/cassandra -f
+4. kill the service by pkill -f CassandraDaemon
+5. 
